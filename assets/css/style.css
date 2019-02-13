@@ -144,6 +144,9 @@ p{
     float: right;
     display: block;
   }
+  #portfolioHeader{
+    font-size:45px;
+  }
 }
 
 @media screen and (max-width: 600px) {
